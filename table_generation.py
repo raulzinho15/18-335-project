@@ -1,4 +1,3 @@
-
 # Prepares all the matrix sizes to be used
 
 all_sizes = []
